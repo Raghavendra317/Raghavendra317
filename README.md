@@ -240,6 +240,10 @@ Designed an AI-powered platform that automates team formation, classroom collabo
 
 ### Opportunities and Challenges Faced by Rural Farmers in Marketing Agricultural Products
 
+<p align="center">
+  <img src="./assets/PSRI.png" alt="PSRI Banner" width="100%">
+</p>
+
 <table>
 <tr>
 
@@ -343,6 +347,10 @@ https://github.com/Raghavendra317/heart-attack-risk-prediction
 ---
 
 ## 🧠 Brain Tumor Detection
+
+<p align="center">
+  <img src="./assets/Brain.png" alt="Brain Banner" width="100%">
+</p>
 
 <table>
 <tr>
