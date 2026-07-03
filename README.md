@@ -191,6 +191,10 @@ The projects below represent my journey of combining **Artificial Intelligence**
 ## 🤖 TeamSync AI
 ### AI-Powered Academic Collaboration Platform
 
+<p align="center">
+  <img src="./assets/TeamSync.png" alt="TeamSync AI Banner" width="100%">
+</p>
+
 <table>
 <tr>
 <td width="35%">
@@ -285,6 +289,10 @@ Conducted an MBA research study using structured questionnaires, statistical ana
 ---
 
 ## ❤️ Heart Attack Risk Prediction
+
+<p align="center">
+  <img src="./assets/Heartrisk.png" alt="Heart Attact Risk" width="100%">
+</p>
 
 <table>
 <tr>
