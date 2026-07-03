@@ -666,20 +666,6 @@ Leadership
 
 # 🐍 Contribution Snake
 
-> **⚠️ One-time setup required**
-
-After creating your GitHub profile README, create this workflow:
-
-`.github/workflows/snake.yml`
-
-and generate:
-
-```
-github-contribution-grid-snake.svg
-```
-
-Then display it here.
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Raghavendra317/Raghavendra317/output/github-contribution-grid-snake.svg" width="100%"/>
