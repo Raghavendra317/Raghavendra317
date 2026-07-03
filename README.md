@@ -600,10 +600,6 @@ Leadership
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghavendra317&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavendra317&layout=compact&theme=transparent&hide_border=true"/>
-
 </div>
 
 <br>
@@ -619,16 +615,6 @@ Leadership
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raghavendra317&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raghavendra317&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
