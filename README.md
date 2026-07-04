@@ -398,6 +398,10 @@ https://github.com/Raghavendra317/Brain-Tumor-Detection
 
 ## 🏏 IPL Performance Analytics (2021–2023)
 
+<p align="center">
+  <img src="./assets/IPL2.png" alt="IPL2 Banner" width="100%">
+</p>
+
 <table>
 <tr>
 
@@ -443,6 +447,10 @@ https://github.com/Raghavendra317/In-Depth-Analysis-of-IPL-Performance-Trends-20
 ---
 
 ## 🏏 IPL Match Bidding Platform
+
+<p align="center">
+  <img src="./assets/IPL1" alt="IPL1 Banner" width="100%">
+</p>
 
 <table>
 <tr>
