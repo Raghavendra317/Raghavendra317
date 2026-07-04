@@ -526,9 +526,11 @@ https://github.com/Raghavendra317/IPL-Match-Bidding-App
 The research provides evidence-based insights into agricultural marketing practices while identifying practical opportunities to strengthen direct marketing and digital adoption among rural farmers.
 
 ---
-
+      
 # 🏆 Professional Recognition
 
+<div align="center">
+      
 <table>
 
 <tr>
@@ -572,6 +574,8 @@ Leadership
 </tr>
 
 </table>
+
+</div>
 
 ---
 
