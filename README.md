@@ -449,7 +449,7 @@ https://github.com/Raghavendra317/In-Depth-Analysis-of-IPL-Performance-Trends-20
 ## 🏏 IPL Match Bidding Platform
 
 <p align="center">
-  <img src="./assets/IPL1" alt="IPL1 Banner" width="100%">
+  <img src="./assets/IPL1.png" alt="IPL1 Banner" width="100%">
 </p>
 
 <table>
