@@ -73,6 +73,8 @@ Building Intelligent Business Solutions
 
 ---
 
+<div align="center">
+
 # 🎯 Core Capabilities
 
 <table>
@@ -136,6 +138,8 @@ Evidence-Based Decisions
 
 </tr>
 </table>
+
+</div>
 
 ---
 
